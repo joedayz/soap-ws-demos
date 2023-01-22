@@ -1,4 +1,4 @@
-package pe.joedayz.servidorws;
+package pe.joedayz.servidorws.impl;
 
 import java.util.HashMap;
 import java.util.Map;

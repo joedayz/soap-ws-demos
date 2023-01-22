@@ -11,6 +11,6 @@ public class UsernameTokenClientCallbackHandler implements CallbackHandler {
   @Override
   public void handle(Callback[] callbacks) throws IOException, UnsupportedCallbackException {
     WSPasswordCallback pc = (WSPasswordCallback) callbacks[0];
-    pc.setPassword("pwd2022");
+    pc.setPassword("pwd123");
   }
 }
